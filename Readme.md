@@ -8,6 +8,6 @@ Añade imágenes a tus películas.
 Puedes usar el repositorio que está en recursos para realizar el ejercicio.
 Puedes realizar tu propio diseño o usar un template HTML.
 
-[Visualizar en el servidor GitHub](https://lucyalvarado4692.github.io/js-mircroejercicios-parte-2/)
+[Visualizar en el servidor GitHub](https://lucyalvarado4692.github.io/practica-api-peliculas/)
 
 Created By: [Lucy Elena Alvarado Rodriguez](https://github.com/lucyalvarado4692)
