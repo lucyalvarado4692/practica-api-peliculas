@@ -1,0 +1,10 @@
+.mov {
+  overflow-x: scroll;
+}
+
+* {
+  background-color: rgb(204, 228, 238);
+}
+.card-border-color {
+  border-color: black;
+}

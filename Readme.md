@@ -1,27 +1,13 @@
-# Api películas
+# Proyecto Api películas
 
-Crea con Postman un crud a la Api de películas
+Un equipo de Backend nos ha pedido que desarrollemos el Frontend de una aplicación de películas favoritas. De momento no disponemos de una API REST así que usaremos un servidor de JSON para poder realizar el frontend.
 
-## Instalación
+Desarrolla una interfaz dinámica en Javascript Vanilla o algún framework. Importantes las buenas prácticas de desarrollo y maquetación.
+Utiliza el servidor Faker de Api.
+Añade imágenes a tus películas.
+Puedes usar el repositorio que está en recursos para realizar el ejercicio.
+Puedes realizar tu propio diseño o usar un template HTML.
 
-- Instala en global el servidor de la Fake Api
+[Visualizar en el servidor GitHub](https://lucyalvarado4692.github.io/js-mircroejercicios-parte-2/)
 
-    sudo npm install -g json-server
-
-- Ejecuta el json
-
-    json-server --watch peliculas.json
-
-- Instala Postman
-
-    https://www.postman.com/
-
-- Crea un Crud en Postman
-
-- Crea un crud en un frontend.
-
-    Utiliza una carpeta ./public/index.html para sustituir la página de inicio.
-
-- Modifica el Json a tu gusto y añade imágenes de portada de las películas
-
-<a href=https://github.com/typicode/json-server>JSON-Server documentation:</a>
+Created By: [Lucy Elena Alvarado Rodriguez](https://github.com/lucyalvarado4692)

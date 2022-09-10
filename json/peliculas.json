@@ -1,6 +1,13 @@
 {
   "peliculas": [
     {
+      "id": 1,
+      "nombre": "Titanic",
+      "caratula": "https://pics.filmaffinity.com/titanic-321994924-mmed.jpg",
+      "director": "James Cameron",
+      "clasificacion": "Drama"
+    },
+    {
       "id": 2,
       "nombre": "Pulp Fiction",
       "caratula": "https://elegirhoy.com/uploads/fichas-eventos-imagenes/Pulp-Fiction1.png",
@@ -8,49 +15,60 @@
       "clasificacion": "Acción"
     },
     {
-      "id": 4,
+      "id": 3,
       "nombre": "300",
+      "caratula": "https://pics.filmaffinity.com/300-676981574-large.jpg",
       "director": "Zack Snyder",
       "clasificacion": "Acción"
     },
     {
-      "id": 5,
+      "id": 4,
       "nombre": "El silencio de los corderos",
+      "caratula": "https://es.web.img3.acsta.net/medias/nmedia/18/74/29/15/19757760.jpg",
       "director": "Jonathan Demme",
       "clasificacion": "Drama"
     },
     {
-      "id": 6,
+      "id": 5,
       "nombre": "Forrest Gump",
+      "caratula": "https://pics.filmaffinity.com/Forrest_Gump-212765827-large.jpg",
       "director": "Robert Zemeckis",
       "clasificacion": "Comedia"
     },
     {
-      "id": 7,
+      "id": 6,
       "nombre": "Las Hurdes",
+      "caratula": "https://pics.filmaffinity.com/Las_Hurdes_Tierra_sin_pan-618902623-mmed.jpg",
       "director": "Luis Buñuel",
       "clasificacion": "Documental"
     },
     {
-      "id": 8
+      "id": 7,
+      "nombre": "El protegido",
+      "caratula": "https://pics.filmaffinity.com/unbreakable-442473934-large.jpg",
+      "director": "LM. Night Shyamalan",
+      "clasificacion": "Thriller"
     },
     {
       "nombre": "El sexto sentido",
       "director": "M. Night Shyamalan",
       "clasificacion": "Drama",
-      "id": 9
+      "caratula": "https://pics.filmaffinity.com/El_sexto_sentido-351070748-large.jpg",
+      "id": 8
     },
     {
       "nombre": "Sagan",
-      "director": "M. Night Shyamalan",
+      "director": "Diane Kurys",
+      "caratula": "https://pics.filmaffinity.com/sagan-889271028-large.jpg",
       "clasificacion": "Drama",
-      "id": 10
+      "id": 19
     },
     {
       "nombre": "Batman",
-      "director": "M. Night Shyamalan",
+      "director": "Tim Burton",
+      "caratula": "https://pics.filmaffinity.com/Batman-910896570-large.jpg",
       "clasificacion": "Drama",
-      "id": 11
+      "id": 10
     }
   ]
 }
