@@ -1,15 +1,15 @@
-let requestUrl = "json/peliculas.json";
+let requestUrl = "/json/peliculas.json";
 console.log("funciona");
 
 async function fetchMoviesJson() {
-  const response = await fetch(requestUrl);
-  const movies = await response.json();
+  let response = await fetch(requestUrl);
+  let movies = await response.json();
   return movies;
 }
 
 fetchMoviesJson().then((movies) => {
   for (let index = 0; index < movies.peliculas.length; index++) {
-    const moviesSection = document.getElementById("moviesSection");
+    let moviesSection = document.getElementById("moviesSection");
 
     let id = movies.peliculas[index].id;
     let title = movies.peliculas[index].nombre;
