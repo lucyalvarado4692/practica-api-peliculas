@@ -1,4 +1,4 @@
-const requestUrl = "/json/peliculas.json";
+let requestUrl = "json/peliculas.json";
 console.log("funciona");
 
 async function fetchMoviesJson() {
